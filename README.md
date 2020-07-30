@@ -10,7 +10,7 @@
 
 You can find the data of problem `Pxxxx` at here: `./xxxx/xxxx-data.zip` is a ZIP which contains both the inputs and outputs, `./xxxx/Input/` contains the inputs, `./xxxx/Output/` contains the outputs.
 
-您可以在以下位置找到 Markdown 格式的题面：`./xxxx/problem.md`。
+您可以在以下位置找到题号为 `xxxx` 的题目的 Markdown 格式的题面：`./xxxx/problem.md`。
 
 To view the problem of Pxxxx, you can go to `./xxxx/problem.md`
 
